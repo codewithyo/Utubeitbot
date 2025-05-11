@@ -15,9 +15,9 @@ class Config:
 
     API_HASH = os.environ.get("f2debf49c2f57bad88086ecd17cb5df3")
 
-    CLIENT_ID = os.environ.get("CLIENT_ID")
+    CLIENT_ID = os.environ.get("728024561781-k8svd0dbkdapirj6uoemnhrp7f158b6v.apps.googleusercontent.com")
 
-    CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
+    CLIENT_SECRET = os.environ.get("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")
 
     BOT_OWNER = int(os.environ.get("Marco_bgm"))
 
